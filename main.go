@@ -56,7 +56,7 @@ func main() {
 	// 1) Sequência de Fibonacci
 	num := 21 // Você pode alterar esse valor para testar diferentes números.
 	pertenceFibonacci(num)
-	pertenceFibonacci(num + 1) // Testa o número seguinte.
+	pertenceFibonacci(num + 1)
 
 	// 2) Verificação e contagem da letra 'a'
 	str := "A árvore estava cheia de maçãs."
